@@ -43,6 +43,7 @@ public class test extends HttpServlet {
 	    String table="";
 		
 		Post post = new Post();
+		
 		System.out.println(id+"  "+postcontent+" "+posttime);
 		
 		//post.setId(id);

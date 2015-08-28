@@ -5,6 +5,7 @@
 		<class>fourthweb.DemoCustomer</class>
 		<class>fourthweb.Test1</class>
 		<class>fourthweb.Post</class>
+		<class>fourthweb.Email</class>
 		<exclude-unlisted-classes>false</exclude-unlisted-classes>
 		<properties>
 			<property name="javax.persistence.jdbc.url" value="jdbc:oracle:thin:@localhost:1521:xe"/>

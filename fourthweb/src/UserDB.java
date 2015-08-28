@@ -43,7 +43,7 @@ em.close();
 }
 }
 
-public static void delete(User user) {
+public static void delete(Post user) {
 EntityManager em = DBUtil.getEmFactory().createEntityManager();
 EntityTransaction trans = em.getTransaction();
 trans.begin(); 
